@@ -21,11 +21,3 @@ App({
         console.log('hide');
     }
 });
-Page('__W2A__medtronic.cc', { //首页扩展配置
-    onShow: function() {
-
-    },
-    onClose: function() {
-
-    }
-});
